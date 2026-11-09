@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth Microphone</string>
+    <string name="heading">میکروفون بلوتوثی</string>
+    <string name="instructions">اول اسپیکر بلوتوث را در تنظیمات گوشی وصل کنید، سپس شروع را بزنید.</string>
+    <string name="status_ready">آماده اتصال به اسپیکر بلوتوث</string>
+    <string name="start">شروع انتقال صدا</string>
+    <string name="stop">توقف انتقال صدا</string>
+    <string name="status_live">میکروفون فعال است؛ در حال ارسال صدا</string>
+    <string name="status_stopped">انتقال صدا متوقف شد</string>
+    <string name="status_missing">اسپیکر بلوتوث A2DP وصل نیست</string>
+    <string name="status_permission">اجازه میکروفون لازم است</string>
+    <string name="note">برای جلوگیری از سوت کشیدن، گوشی را از اسپیکر دور نگه دارید. تأخیر صدا در بلوتوث طبیعی است.</string>
+</resources>
